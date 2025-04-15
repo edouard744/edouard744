@@ -16,13 +16,9 @@
 ### 🌐 Find me on
 
 <p align="left">
-  <a href="https://github.com/edouard744">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/edouard-willems">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/edouard744"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30"/></a>
+  &nbsp; 
+  <a href="https://www.linkedin.com/in/edouard-willems"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" /></a>
 </p>
 
 ---
